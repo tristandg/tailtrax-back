@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  name: MyString
+  gender: 1
+  weight: 1
+  pet_description: MyString
+  pet_profile_pic: MyString
+  breed_id: 1
+  color: 1
+  markings: MyString
+  location: MyString
+  microchip: MyString
+  akc_reg_number: MyString
+  akc_reg_date: 2018-05-23
+  birthday: 2018-05-23
+
+two:
+  user_id: 1
+  name: MyString
+  gender: 1
+  weight: 1
+  pet_description: MyString
+  pet_profile_pic: MyString
+  breed_id: 1
+  color: 1
+  markings: MyString
+  location: MyString
+  microchip: MyString
+  akc_reg_number: MyString
+  akc_reg_date: 2018-05-23
+  birthday: 2018-05-23
